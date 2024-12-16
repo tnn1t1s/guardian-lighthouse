@@ -1,0 +1,43 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Pytest Cache
+.cache/
+*.pytest_cache
+
+# Log Files
+*.log
+
+# Python Egg Files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# DS_Store Files (macOS)
+.DS_Store
+
+# Editor and IDE Configurations
+.vscode/
+.idea/
+
+# Temporary Files
+*.tmp
+*.swp
+*.swo
+
+# Ignore Prompts Example Backup (if needed)
+prompts_backup.json
+
