@@ -109,6 +109,10 @@ revised_prompt = (
 )
 ```
 
+## Decision to Skip RAG Hallucination Data
+
+While the Granite Guardian paper briefly mentions RAG (Retrieval-Augmented Generation) hallucination data, this project has opted not to focus on this aspect. Testing hallucination involves a broad scope of methodologies and literature, making it less directly relevant to our primary goal of adversarially safe harmful content generation. When drafting the final paper, we will include a section explaining this decision to avoid confusion and clarify the narrower focus of our work.
+
 ---
 
 ## References
