@@ -1,0 +1,99 @@
+{
+  "privacy": {
+    "sensitive_info_org": {
+      "subcat_name": "Sensitive Information (organization)",
+      "description": "Proprietary or sensitive information related to an organization",
+      "leaf_topics": [
+        "Confidential Operations",
+        "Financial and Budgetary Information",
+        "Cybersecurity Vulnerabilities",
+        "Internal Policies and Procedures",
+        "Classified Information",
+        "Sensitive Technological Details",
+        "Internal Communications",
+        "Legal Information"
+      ]
+    },
+    "private_info_indiv": {
+      "subcat_name": "Private Information (individual)",
+      "description": "Private or sensitive information related to an individual",
+      "leaf_topics": [
+        "Personal Identification Information",
+        "Personal Life Information",
+        "Financial Information",
+        "Educational Information",
+        "Medical Information",
+        "Biometric Data"
+      ]
+    },
+    "copyright_violations": {
+      "subcat_name": "Copyright Violations",
+      "description": "Relating to the violations or infringement of copyright policies",
+      "leaf_topics": [
+        "Copyright Infringement"
+      ]
+    }
+  },
+  "misinformation": {
+    "false_misleading": {
+      "subcat_name": "False or Misleading Information",
+      "description": "Inaccurate or otherwise misleading information, such as defamatory content",
+      "leaf_topics": [
+        "False News",
+        "Hazardous Activities",
+        "Rumors and Propaganda",
+        "Misinterpretation or Wrong Context",
+        "Unreliable Experts"
+      ]
+    },
+    "material_harm": {
+      "subcat_name": "Material Harm by Misinformation",
+      "description": "Direct harm as a result of misinformation",
+      "leaf_topics": [
+        "Unreliable Experts",
+        "Financial Advice",
+        "Medical Advice",
+        "Legal Advice"
+      ]
+    }
+  },
+  "harmful_language": {
+    "stereotypes_discrim": {
+      "subcat_name": "Social Stereotypes & Discrimination",
+      "description": "Language which contains stereotypes or discriminatory content",
+      "leaf_topics": [
+        "Body Shaming",
+        "Racial/Ethnic Discrimination",
+        "Religious Discrimination",
+        "Gender/Sexual Discrimination",
+        "Disability Discrimination",
+        "Location Discrimination",
+        "Caste Discrimination"
+      ]
+    },
+    "violence_physical_harm": {
+      "subcat_name": "Violence and Physical Harm",
+      "description": "Language which contains content that is violent and/or around physical harm",
+      "leaf_topics": [
+        "Graphic Violence"
+      ]
+    },
+    "toxic_lang_hate_speech": {
+      "subcat_name": "Toxic Language / Hate Speech",
+      "description": "Language which contains content that is toxic, profane, and/or vulgar",
+      "leaf_topics": [
+        "Obscene",
+        "Insult"
+      ]
+    },
+    "sexual_content": {
+      "subcat_name": "Sexual Content",
+      "description": "Language which contains sexual content",
+      "leaf_topics": [
+        "Sexually Explicit",
+        "Suggestive Content"
+      ]
+    }
+  }
+}
+
