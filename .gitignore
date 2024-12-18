@@ -1,3 +1,5 @@
+# safe
+tokens
 # Python Bytecode
 __pycache__/
 *.py[cod]
